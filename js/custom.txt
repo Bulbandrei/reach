@@ -1,0 +1,1 @@
+grunt custom --exclude gamepad,keyboard,bitmaptext,retrofont,rope,net,sound,debug,ninja,p2,tilemaps,creature,video --uglify true

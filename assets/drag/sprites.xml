@@ -1,0 +1,6 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="drag_1.png" x="258" y="232" width="256" height="230"/>
+	<SubTexture name="drag_2.png" x="0" y="0" width="256" height="230"/>
+	<SubTexture name="mouseDrag_1.png" x="0" y="232" width="256" height="230"/>
+	<SubTexture name="mouseDrag_2.png" x="258" y="0" width="256" height="230"/>
+</TextureAtlas>
